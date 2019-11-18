@@ -30,6 +30,12 @@ p2 {
   font-family: calibri;
   font-size: 50px;
 }
+h4 {
+  color: green;
+  font-family: calibri;
+  font-size: 50px;
+}
+
 </style>
 </head>
 <body>
@@ -40,9 +46,8 @@ p2 {
 <h3>HTML Editor</h3>
 <p2 id="demo">ITC Student</p2>
 <button type="button" onclick="document.getElementById('demo').innerHTML='Wayne Chen<br>Seattle, Washington<br>I learned to type in HTML.'">Click Here</button>
-<h2>HTML Editor</h2>
 <h3>CSS Editor</h3>
-<p id="demo">ITC Student</p>
+<p2 id="demo">ITC Student</p2>
 <button type="button" onclick="document.getElementById('demo').innerHTML='Pedro Hernandez<br>Seattle, Washington<br>I learned to type in CSS.'">Click Here</button>
 </body>
 </html>
