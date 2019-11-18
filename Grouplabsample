@@ -20,11 +20,6 @@ p  {
   font-family: calibri;
   font-size: 50px;
 }
-h3 {
-  color: black;
-  font-family: calibri;
-  font-size: 20px;
-}
 </style>
 </head>
 <body>
@@ -32,6 +27,12 @@ h3 {
 <h2>Information Computer Concepts</h2>
 <p>Welcome To Our Website.</p>
 <p>Here are the people involved in making this project.</p>
+h3 {
+  color: black;
+  text-align: right;
+  font-family: calibri;
+  font-size: 20px;
+}
 <h3>HTML Editor</h3>
 <button type="button" onclick='document.getElementById.innerHTML="Wayne Chen
 Seattle, Washington
