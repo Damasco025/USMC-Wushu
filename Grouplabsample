@@ -5,9 +5,13 @@
 body {
   background-color:  blue;
 }
-<h1> {
+h1 {
   color:  white;
   text-align:  center;
+}
+p  {
+  font-family: calibri;
+  font-size: 20px;
 }
 </style>
 </head>
