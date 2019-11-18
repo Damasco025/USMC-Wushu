@@ -50,6 +50,16 @@ p4 {
   font-family: calibri;
   font-size: 30px;
 }
+h6 {
+  color: silver;
+  font-family: calibri;
+  font-size: 30px;
+}
+p5 {
+  color: silver;
+  font-family: calibri;
+  font-size: 30px;
+}
 </style>
 </head>
 <body>
@@ -63,12 +73,16 @@ p4 {
 <button type="button" onclick="document.getElementById('demo').innerHTML='Wayne Chen<br>Seattle, Washington<br>I learned to type in HTML.'">Click Here</button>
 
 <h4>CSS Editor</h4>
-<p3 id="demo">ITC Student</p>
-<button type="button" onclick="document.getElementById('demo').innerHTML='Pedro Hernandez<br>Seattle, Washington<br>I learned to type in CSS.'">Click Me</button>
+<p3 id="demo2">ITC Student</p>
+<button type="button" onclick="document.getElementById('demo2').innerHTML='Pedro Hernandez<br>Seattle, Washington<br>I learned to type in CSS.'">Click This</button>
 
 <h5>Javascript Editor</h5>
-<p4 id="demo">ITC Student</p4>
-<button type="button" onclick="document.getElementById('demo').innerHTML='Lu Liu<br>Seattle, Washington<br>I learned to type in Javascript.'">Please Click</button>
+<p4 id="demo3">ITC Student</p4>
+<button type="button" onclick="document.getElementById('demo3').innerHTML='Lu Liu<br>Seattle, Washington<br>I learned to type in Javascript.'">Please Click</button>
+
+<h6>Program Manager</h6>
+<p5 id="demo4">ITC Student</p5>
+<button type="button" onclick="document.getElementById('demo4').innerHTML='Michael Damasco<br>Seattle, Washington<br>I assisted in the work of my fellow editors.'">Just Click It</button>
 
 </body>
 </html>
