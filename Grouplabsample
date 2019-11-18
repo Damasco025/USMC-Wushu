@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body {
+  background-color:  blue;
+}
+<h1> {
+  color:  white;
+  text-align:  center;
+}
+</style>
+</head>
+<body>
+<h1>ITC 102<h1>
+<p>Information Computer Concepts<p>
+</body>
+</html>
