@@ -8,11 +8,15 @@ body {
 h1 {
   color: white;
   text-align: center;
-  font-size: 100;
+  font-size: 200px;
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 100px;
 }
 p  {
   color: white;
-  text-align: center;
   font-family: calibri;
   font-size: 50px;
 }
@@ -20,6 +24,8 @@ p  {
 </head>
 <body>
 <h1>ITC 102</h1>
-<p>Information Computer Concepts</p>
+<h2>Information Computer Concepts</h2>
+<p>Welcome To Our Website.</p>
+<p>Here are the people involved in making this project.</p>
 </body>
 </html>
