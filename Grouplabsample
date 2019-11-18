@@ -68,7 +68,7 @@ p4 {
 
 <h5>Javascript Editor</h5>
 <p4 id="demo">ITC Student</p4>
-<button type="button" onclick="document.getElementById('demo').innerHTML='Wayne Chen<br>Seattle, Washington<br>I learned to type in HTML.'">Please Click</button>
+<button type="button" onclick="document.getElementById('demo').innerHTML='Lu Liu<br>Seattle, Washington<br>I learned to type in Javascript.'">Please Click</button>
 
 </body>
 </html>
