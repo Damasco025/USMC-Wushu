@@ -27,16 +27,9 @@ p  {
 <h2>Information Computer Concepts</h2>
 <p>Welcome To Our Website.</p>
 <p>Here are the people involved in making this project.</p>
-<html>
-<style>
-h3 {
-  color: black;
-  text-align: right;
-  font-family: calibri;
-  font-size: 20px;
-}
+
 <h3>HTML Editor</h3>
-<button type="button" onclick='document.getElementById.innerHTML="Wayne Chen
+<button type="button" onclick='innerHTML="Wayne Chen
 Seattle, Washington
 I learned HTML"'>Click Here</button>
 </body>
