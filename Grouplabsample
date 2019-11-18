@@ -35,7 +35,11 @@ h4 {
   font-family: calibri;
   font-size: 50px;
 }
-
+p3 {
+  color: green;
+  font-family: calibri;
+  font-size: 50px;
+}
 </style>
 </head>
 <body>
@@ -46,8 +50,8 @@ h4 {
 <h3>HTML Editor</h3>
 <p2 id="demo">ITC Student</p2>
 <button type="button" onclick="document.getElementById('demo').innerHTML='Wayne Chen<br>Seattle, Washington<br>I learned to type in HTML.'">Click Here</button>
-<h3>CSS Editor</h3>
-<p2 id="demo">ITC Student</p2>
+<h4>CSS Editor</h4>
+<p3 id="demo">ITC Student</p>
 <button type="button" onclick="document.getElementById('demo').innerHTML='Pedro Hernandez<br>Seattle, Washington<br>I learned to type in CSS.'">Click Here</button>
 </body>
 </html>
