@@ -20,6 +20,11 @@ p  {
   font-family: calibri;
   font-size: 50px;
 }
+p2 {
+  color: black;
+  font-family: calibri;
+  font-size: 20px;
+}
 </style>
 </head>
 <body>
@@ -27,8 +32,8 @@ p  {
 <h2>Information Computer Concepts</h2>
 <p>Welcome To Our Website.</p>
 <p>Here are the people involved in making this project.</p>
-<p>HTML Editor</p>
-<button type="button" onclick='document.getElementById("demo").innerHTML="Wayne Chen
+<p2>HTML Editor</p2>
+<button type="button" onclick='document.getElementById.innerHTML="Wayne Chen
 Seattle, Washington
 I learned HTML"'>Click Here</button>
 </body>
