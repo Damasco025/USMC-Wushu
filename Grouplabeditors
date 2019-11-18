@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<h3>HTML Editor</h3>
+<p id="demo">ITC Student</p>
+<button type="button" onclick='document.getElementId("demo").innerHTML="Wayne Chen
+Seattle, Washington
+I learned to write in HTML."'>Click Here</button>
+</body>
+</html>
