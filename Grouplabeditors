@@ -3,6 +3,6 @@
 <body>
 <h2>HTML Editor</h2>
 <p id="demo">ITC Student</p>
-<button type="button" onclick='document.getElementId("demo").innerHTML="Wayne Chen."'>Click Here</button>
+<button type="button" onclick='document.getElementById("demo").innerHTML="Wayne Chen."'>Click Here</button>
 </body>
 </html>
