@@ -27,10 +27,5 @@ p  {
 <h2>Information Computer Concepts</h2>
 <p>Welcome To Our Website.</p>
 <p>Here are the people involved in making this project.</p>
-
-<h3>HTML Editor</h3>
-<button type="button" onclick='innerHTML="Wayne Chen
-Seattle, Washington
-I learned HTML"'>Click Here</button>
 </body>
 </html>
