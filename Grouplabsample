@@ -11,6 +11,8 @@ h1 {
   font-size: 50;
 }
 p  {
+  color: white;
+  text-align: center;
   font-family: calibri;
   font-size: 20px;
 }
