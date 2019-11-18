@@ -23,22 +23,32 @@ p  {
 h3 {
   color: black;
   font-family: calibri;
-  font-size: 50px;
+  font-size: 30px;
   }
 p2 {
   color: black;
   font-family: calibri;
-  font-size: 50px;
+  font-size: 30px;
 }
 h4 {
   color: green;
   font-family: calibri;
-  font-size: 50px;
+  font-size: 30px;
 }
 p3 {
   color: green;
   font-family: calibri;
-  font-size: 50px;
+  font-size: 30px;
+}
+h5 {
+  color: red;
+  font-family: calibri;
+  font-size: 30px;
+}
+p4 {
+  color: red;
+  font-family: calibri;
+  font-size: 30px;
 }
 </style>
 </head>
@@ -47,11 +57,18 @@ p3 {
 <h2>Information Computer Concepts</h2>
 <p>Welcome To Our Website.</p>
 <p>Here are the people involved in making this project.</p>
+
 <h3>HTML Editor</h3>
 <p2 id="demo">ITC Student</p2>
 <button type="button" onclick="document.getElementById('demo').innerHTML='Wayne Chen<br>Seattle, Washington<br>I learned to type in HTML.'">Click Here</button>
+
 <h4>CSS Editor</h4>
 <p3 id="demo">ITC Student</p>
-<button type="button" onclick="document.getElementById('demo').innerHTML='Pedro Hernandez<br>Seattle, Washington<br>I learned to type in CSS.'">Click Here</button>
+<button type="button" onclick="document.getElementById('demo').innerHTML='Pedro Hernandez<br>Seattle, Washington<br>I learned to type in CSS.'">Click Me</button>
+
+<h5>Javascript Editor</h5>
+<p4 id="demo">ITC Student</p4>
+<button type="button" onclick="document.getElementById('demo').innerHTML='Wayne Chen<br>Seattle, Washington<br>I learned to type in HTML.'">Please Click</button>
+
 </body>
 </html>
