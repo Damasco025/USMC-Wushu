@@ -8,57 +8,57 @@ body {
 h1 {
   color: white;
   text-align: center;
-  font-size: 150px;
+  font-size: 50px;
 }
 h2 {
   color: white;
   text-align: center;
-  font-size: 50px;
+  font-size: 30px;
 }
 p  {
   color: white;
   font-family: calibri;
-  font-size: 50px;
+  font-size: 20px;
 }
 h3 {
   color: black;
   font-family: calibri;
-  font-size: 30px;
+  font-size: 16px;
   }
 p2 {
   color: black;
   font-family: calibri;
-  font-size: 30px;
+  font-size: 16px;
 }
 h4 {
   color: green;
   font-family: calibri;
-  font-size: 30px;
+  font-size: 16px;
 }
 p3 {
   color: green;
   font-family: calibri;
-  font-size: 30px;
+  font-size: 16px;
 }
 h5 {
   color: red;
   font-family: calibri;
-  font-size: 30px;
+  font-size: 16px;
 }
 p4 {
   color: red;
   font-family: calibri;
-  font-size: 30px;
+  font-size: 16px;
 }
 h6 {
   color: silver;
   font-family: calibri;
-  font-size: 30px;
+  font-size: 16px;
 }
 p5 {
   color: silver;
   font-family: calibri;
-  font-size: 30px;
+  font-size: 16px;
 }
 </style>
 </head>
