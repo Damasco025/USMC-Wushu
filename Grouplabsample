@@ -71,18 +71,19 @@ p5 {
 <h3>HTML Editor</h3>
 <p2 id="demo">ITC Student</p2>
 <button type="button" onclick="document.getElementById('demo').innerHTML='Wayne Chen<br>Seattle, Washington<br>I learned to type in HTML.'">Click Here</button>
+</p2>
 
 <h4>CSS Editor</h4>
 <p3 id="demo2">ITC Student</p>
 <button type="button" onclick="document.getElementById('demo2').innerHTML='Pedro Hernandez<br>Seattle, Washington<br>I learned to type in CSS.'">Click This</button>
-
+</p3>
 <h5>Javascript Editor</h5>
 <p4 id="demo3">ITC Student</p4>
 <button type="button" onclick="document.getElementById('demo3').innerHTML='Lu Liu<br>Seattle, Washington<br>I learned to type in Javascript.'">Please Click</button>
-
+</p4>
 <h6>Program Manager</h6>
 <p5 id="demo4">ITC Student</p5>
 <button type="button" onclick="document.getElementById('demo4').innerHTML='Michael Damasco<br>Seattle, Washington<br>I assisted in the work of my fellow editors.'">Just Click It</button>
-
+</p5>
 </body>
 </html>
