@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+ <html>
+ <head>
+ <style>
+ body { background:LightSlateGrey; } 
+ h1 { color: teal; text-align: center; font-size: 150px; border-style: solid; border-color: dark teal }
+
+
+ h2 { color: white; text-align: center; font-size: 50px; }
+ p {color: white; text-align: center; font-size: 50px;  }
+ h3 { color: darkgoldenrod; text-align: center; font-size: 30px; }
+ p2 { color: darkgoldenrod; text-align: center; center; font-size: 30px; }
+ h4 { color: green; text-align: center; font-size: 30px; }
+ p3 { color: green; text-align: center; font-size: 30px; }
+ h5 { color: palevioletred; text-align: center; font-size: 30px; }
+ p4 { color: palevioletred; text-align: center; font-size: 30px; }
+ h6 { color: royalblue; text-align: center; font-size: 30px; }
+ p5 { color: royalblue; text-align: center;font-size: 30px; }
+ button {
+   background-color:cadetblue;
+   border: none;
+   color: white;
+   text-align: center;
+   font-size: 16px;
+   cursor: pointer;
+   height:20px;
+   width:120px;
+   margin: -20px -50px;
+   position:relative;
+   top:50%;
+   left:48.5%;
+ }
+ div.a {
+   text-align: center;
+ }
+ </style>
+ </head>
+
+ <body>
+ <h1>ITC 102</h1>
+ <h2>Information Computer Concepts</h2>
+ <p>Welcome To Our Website</p>
+ <p>Group Member</p>
+ <h3>HTML Editor</h3>
+ <div class="a">
+ <p2 id="demo">ITC Student</p2>
+ </div>
+ <button type ="button" onclick="document.getElementById('demo').innerHTML='Wayne Chen<br>Seattle, Washington<br>I learned to type in HTML.'">Click Here</button>
+ <h4>CSS Editor</h4>
+ <div class="a">
+ <p3 id="demo2">ITC Student</p3>
+ </div>
+ <button type ="button" onclick="document.getElementById('demo2').innerHTML='Pedro Hernandez<br>Seattle, Washington<br>I learned to type in CSS.'">Click This</button>
+ <h5>Javascript Editor</h5>
+ <div class="a">
+ <p4 id="demo3">ITC Student</p4>
+ </div>
+ <button type="button" onclick="document.getElementById('demo3').innerHTML='Lu Liu<br>Seattle, Washington<br>I learned to type in Javascript.'">Please Click</button>
+ <h6>Program Manager</h6>
+ <div class="a">
+ <p5 id="demo4">ITC Student</p5>
+ </div>
